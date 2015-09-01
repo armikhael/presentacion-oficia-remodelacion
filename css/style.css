@@ -1,0 +1,45 @@
+.logo{
+	position: absolute;
+	top: 62%;
+	left: 40%
+}
+.mascota{
+	position: absolute;
+	top: 23%;
+	left: 37%;
+}
+.text{
+	text-align: center;
+}
+.prof{
+	font-size: 30px;
+	position: absolute;
+	bottom: 0px;
+}
+.alumnos{
+	font-size: 25px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	margin-right: 20px;
+}
+.pequeno{
+	font-size: 11px;
+	margin: 0px;
+	padding: 0px;
+	line-height: 20px; 
+}
+.cocina{
+	width: 650px;
+	height: 500px;
+	position: absolute;
+	top:19%;
+	left: 17%;
+}
+.mini{
+	width: 800px;
+	height: 400px;
+	position: absolute;
+	top:10%;
+	left: 10%;
+}
